@@ -1,1 +1,2 @@
 !random
+print "Randomization"
